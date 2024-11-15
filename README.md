@@ -1,6 +1,8 @@
 
 ### Repo for Figure 1 creation with 1 sample data pair
 
+### the entire dataset is over 500GB
+
 RGB: Left image
 
 RGB1: Right images with baseline of around 3.81cm
