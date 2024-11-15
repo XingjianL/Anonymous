@@ -1,7 +1,7 @@
 
 ### Repo for Figure 1 creation with 1 sample data pair
 
-### the entire dataset is over 500GB
+### the entire dataset is around 750 GB
 
 RGB: Left image
 
