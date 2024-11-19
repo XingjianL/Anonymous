@@ -1,7 +1,7 @@
 
 ### Repo for TomatoCastle Supplementary Material
 
-### the entire dataset is around 250 GB after compression and reduction
+### the entire dataset is around 250 GB after compression and depth reduction to 16-bit
 
 fig1.py: code for creating figure 1 using images in sample_dataset_images
 
