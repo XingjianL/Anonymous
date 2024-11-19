@@ -1,7 +1,11 @@
 
-### Repo for Figure 1 creation with 1 sample data pair
+### Repo for TomatoCastle Supplementary Material
 
 ### the entire dataset is around 250 GB after compression and reduction
+
+fig1.py: code for creating figure 1 using images in sample_dataset_images
+
+### Sample Dataset Images
 
 RGB: Left image
 
@@ -13,6 +17,8 @@ Seg: panoptic segmentation: semantic in red channel, see fig1.py for label class
 
 
 ### Additional
+high-res images for fig 8
+
 video: showing the UE5 application GUI and high-resolution images streamed over ROS topics
 
 automation_script: sample bash call for configuring the environment and starts a data collection routine
